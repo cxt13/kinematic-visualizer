@@ -4,7 +4,7 @@ Interactive forward kinematics visualization tool for serial robotic manipulator
 
 ## Features
 
-- 2–6 DOF robotic manipulator
+- 2-5 DOF robotic manipulator
 - Real-time FK visualization
 - Interactive joint control
 - Articulated gripper
