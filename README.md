@@ -21,13 +21,6 @@ Interactive forward kinematics visualization tool for serial robotic manipulator
 - JavaScript
 - DH Kinematics
 
-## Screenshots
-
-### Main Interface
-![Main UI](screenshots/canvas.png)
-
-### End-Effector Trace
-![Trace](screenshots/canvas2.png)
 
 ## Run Locally
 
